@@ -1,6 +1,6 @@
 # TXON
 
-Internship Week 4 task 
+Internship Week 4 task by TXON
 # Portfolio
 
 Creating a Personal Portfolio using HTML, CSS and JavaScript
